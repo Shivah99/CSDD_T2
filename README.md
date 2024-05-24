@@ -29,6 +29,3 @@ This is a simple Go program for the purpose of a class assignment. The program p
 This will print a greeting in the console.
 #### "Hello from SHIVAJI BURGULA 500224628"
 
-## Collaboration
-
-I have collaborated with my team and forked with each other.
