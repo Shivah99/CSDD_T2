@@ -1,4 +1,6 @@
-# Go Greeting Program
+# In-class Lab 2 (10%)_SHIVAJI_BURGULA_500224628
+
+## Go Greeting Program
 
 This is a simple Go program for the purpose of a class assignment. The program prints a greeting in the format: "Hello from [Student Name] [Student ID]".
 
